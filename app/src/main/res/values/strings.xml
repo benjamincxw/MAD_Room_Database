@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoomDatabase</string>
+    <string name="add_student">add student</string>
+    <string name="retrieve">Retrieve</string>
+</resources>
